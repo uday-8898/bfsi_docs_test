@@ -1,0 +1,10 @@
+fastapi
+pymongo
+azure.ai.formrecognizer
+uvicorn
+gunicorn
+pandas
+azure-storage-blob
+pdf2image
+python-multipart
+xlsxwriter
